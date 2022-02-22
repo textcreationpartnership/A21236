@@ -1,0 +1,589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poores lamentation for the death of our late dread soueraigne the high and mightie Princesse Elizabeth, late Queene of England, France and Ireland VVith their prayers to God for the high and mightie Prince Iames by the grace of God King of England, Scotland, France and Ireland, defender of the faith.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21236</idno>
+            <idno type="STC">STC 7594</idno>
+            <idno type="STC">ESTC S105471</idno>
+            <idno type="EEBO-CITATION">99841199</idno>
+            <idno type="PROQUEST">99841199</idno>
+            <idno type="VID">5762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5762)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 770:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poores lamentation for the death of our late dread soueraigne the high and mightie Princesse Elizabeth, late Queene of England, France and Ireland VVith their prayers to God for the high and mightie Prince Iames by the grace of God King of England, Scotland, France and Ireland, defender of the faith.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By Richard Read?] for Thomas Pauier, and are to be solde [at his] shop in Cornehill, neere the Exchange, at the signe of the Cat and the Parrets,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>The first leaf is blank except for signature-mark A; the last leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603 --  Death and burial --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5762:1"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:5762:1"/>
+            <!-- PDF PAGE 64 -->
+            <p>THE POORES <hi>LAMEN<g ref="char:EOLhyphen"/>TATION FOR THE</hi> DEATH OF OVR LATE dread Soueraigne the High and Mightie <hi>Princeſſe Elizabeth, late Queene of Eng<g ref="char:EOLhyphen"/>land,</hi> France and Ireland.</p>
+            <p>With their prayers to God for the <hi>High and Mightie Prince</hi> IAMES by the grace of God King <hi>of England, Scotland, France</hi> and Ireland, defender of <hi>the Faith.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Imprinted at London for <hi>Thomas Pauier,</hi> and are to be ſolde <hi>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ſhop in Cornehill, neere the Exchange, at the ſigne</hi> of the Cat and the Parrets. 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:5762:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb facs="tcp:5762:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>THE POORES LAMENTATION.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Y</seg>Ou wailing wights that take delight to mourne</l>
+               <l>vouchſafe to lend your aide vnto my Pen:</l>
+               <l>Aſſiſt my muſe, my verſe for to adorne,</l>
+               <l>ſithes, ſobs, &amp; teares, ſhall ſure be pleaſing then</l>
+               <l>For ſorrow ſadly ſits vpon my breſt,</l>
+               <l>And doth bereaue my hart of quiet reſt.</l>
+            </lg>
+            <lg>
+               <l>Come woe and wander with me all alone,</l>
+               <l>and guide me to ſome ſolitary place:</l>
+               <l>Where I with flouds of teares may ſith and grone,</l>
+               <l>and wailing wander by my ſelfe a ſpace.</l>
+               <l>But ſoft a while me thinkes I here ſome crie,</l>
+               <l>Stay, ſtay, and take with thee more company.</l>
+            </lg>
+            <lg>
+               <l>We all will beare a part in this lament,</l>
+               <l>for this thy cares doth all of vs concerne:</l>
+               <l>Wherefore lets all prepare incontinent,</l>
+               <l>now we are priuate none can vs diſcerne,</l>
+               <l>Nay lets not feare, if all the world did ſee,</l>
+               <l>For moſt within it doe with vs agree.</l>
+            </lg>
+            <lg>
+               <l>Then let vs all fall downe vpon our knee,</l>
+               <l>and then direct our eyes to heauen ſo hie:</l>
+               <l>Then with conſent let all of vs agree,</l>
+               <l>to wring our hands and ſadly ſobring crie,</l>
+               <l>Lord it is thou, tis thou oh Lord I ſay,</l>
+               <l>Which for our ſinne hath taken quite away</l>
+            </lg>
+            <lg>
+               <l>Our good and Godly gracious royall Queene,</l>
+               <l>which was our comfort while ſhe did remaine:</l>
+               <l>Whoſe like on earth before was neuer ſeene,</l>
+               <l>nor did, nor doth, the world her like containe,</l>
+               <l>
+                  <hi>Elizabeth, Elizabeth</hi> I ſay,</l>
+               <l>From little England now is taine away.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:3"/>
+               <!-- PDF PAGE 66 -->
+               <l>In the beginning of Queene <hi>Maries</hi> raigne,</l>
+               <l>her grace at <hi>Aſhridge</hi> at her houſe did lie:</l>
+               <l>Sore ſicke God wot, and very full of paine,</l>
+               <l>not like to liue, but very like to die.</l>
+               <l>To her in all the haſt Queene <hi>Mary</hi> ſent,</l>
+               <l>To haue her brought to her incontinent.</l>
+            </lg>
+            <lg>
+               <l>Three of the Counſell to that end did ride,</l>
+               <l>with twelue ſcore horſe-men in their company:</l>
+               <l>And euery one his weapon by his ſide,</l>
+               <l>To <hi>Aſhridge</hi> poſting they in haſt doe hie.</l>
+               <l>Yet it was ten a clocke within the night,</l>
+               <l>When they were at the gate for to alight.</l>
+            </lg>
+            <lg>
+               <l>Straight to her chamber they in haſt did goe,</l>
+               <l>and with her grace demaunded for to ſpeake:</l>
+               <l>Anſwere was made them that the cauſe was ſo,</l>
+               <l>that ſhe in bed that time was very weake,</l>
+               <l>And did requeſt them ſtay till the next day,</l>
+               <l>Who anſwered that the Queene they muſt obay.</l>
+            </lg>
+            <lg>
+               <l>And ſhe had charg'd them all vpon their life,</l>
+               <l>aliue or dead to bring her thence away:</l>
+               <l>Wherefore quoth they we ſoone will end this ſtrife,</l>
+               <l>going into the chamber where ſhe laye.</l>
+               <l>Her grace did ſee them and with griefe did ſay,</l>
+               <l>Could you not while to morrow morning ſtay.</l>
+            </lg>
+            <lg>
+               <l>No, ſtraight they anſwered all with one conſent,</l>
+               <l>aliue or dead away from hence you muſt:</l>
+               <l>Thus with commiſſion to you we are ſent,</l>
+               <l>'tis very ſtraight quoth ſhe, yet I doe truſt,</l>
+               <l>My gracious Queene will mercie to me ſhow,</l>
+               <l>Of this my ſickeneſſe if ſhe did but know<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:3"/>
+               <!-- PDF PAGE 66 -->
+               <l>The Queene hath ſent her letter for your grace,</l>
+               <l>gainſt nine a clocke therefore I pray prepare:</l>
+               <l>Alaſſe quoth ſhe th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s is a greeuous caſe,</l>
+               <l>is this hard hap allotted for my ſhare.</l>
+               <l>Great God that knowes the ſecrets of my hart,</l>
+               <l>Vouchſafe, vouchſafe, to take thy hand-maids part.</l>
+            </lg>
+            <lg>
+               <l>Then on the morrow very ſicke and weake,</l>
+               <l>ſhe from her houſe was carried ſtraight away:</l>
+               <l>Her ſeruants harts ready with griefe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o breake,</l>
+               <l>did for their gratious Lady weeping pray.</l>
+               <l>That God would ſtill defend her with his might,</l>
+               <l>For this ſtrange dealing did them much affright.</l>
+            </lg>
+            <lg>
+               <l>From thence vnto the Court ſhe was conuayde,</l>
+               <l>where foureteene daies her grace was cloſely kept:</l>
+               <l>And might not ſee the Queene while there ſhe ſtaid,</l>
+               <l>this dealing when her grace did ſee, ſhe wept.</l>
+               <l>Some charg'd her with <hi>Wyats</hi> conſpiraſie,</l>
+               <l>The which her grace did vtterly deny.</l>
+            </lg>
+            <lg>
+               <l>Yet for all that, the Queene commaundement ſent,</l>
+               <l>that ſhe next tide ſhould to the <hi>Tower</hi> goe:</l>
+               <l>And when the time was come ſhe greeued went,</l>
+               <l>the Queene commaunded, and it muſt be ſo.</l>
+               <l>Then to the <hi>Tower</hi> ſhe was carried ſtraight,</l>
+               <l>Where for her comming many did awaite.</l>
+            </lg>
+            <lg>
+               <l>She landing, paſſed ſtraight into the <hi>Tower,</hi>
+               </l>
+               <l>when ſhe was there, the gates they boulted faſt:</l>
+               <l>Quoth ſhe, I neuer thought to ſee this houre,</l>
+               <l>well now I ſee my ioyfull dayes are paſt.</l>
+               <l>Which I haue here vpon the earth to ſpend,</l>
+               <l>Y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aue me not O Lord, but comfort ſend.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:4"/>
+               <!-- PDF PAGE 67 -->
+               <l>Oh Lord thou knowſt the ſecrets of my hart,</l>
+               <l>thou knowſt how I am wronged in this place;</l>
+               <l>I pray vouchſafe great God to take my part,</l>
+               <l>and let my wrong be turn'd to their diſgrace.</l>
+               <l>That are the cauſe of my impriſonment,</l>
+               <l>Lord let them ſee their ſinne incontinent.</l>
+            </lg>
+            <lg>
+               <l>Within the Tower long time ſhe did remaine,</l>
+               <l>being too much abuſed by many a one:</l>
+               <l>And though her grace did often times complaine,</l>
+               <l>yet there was none that did regard her mone</l>
+               <l>At laſt one tould her, ſhe from thence ſhould goe,</l>
+               <l>To <hi>Woodſtock</hi> for the Queene would haue it ſo.</l>
+            </lg>
+            <lg>
+               <l>Then from the <hi>Tower</hi> to <hi>Woodſtocke</hi> ſhe was ſent,</l>
+               <l>there to be kept a priſoner as before:</l>
+               <l>And threeſcore ſouldiers for to gard her went,</l>
+               <l>where at her Princely grace was greeued ſore.</l>
+               <l>Thus traytor like quoth ſhe, why do you vſe me,</l>
+               <l>In truth, in truth, you all do much abuſe me.</l>
+            </lg>
+            <lg>
+               <l>During the time that ſhe in <hi>Woodſtocke</hi> lay,</l>
+               <l>with life ſhe often eſcaped very neere:</l>
+               <l>For many wayes <hi>Stephen Gardiner</hi> did aſſay,</l>
+               <l>as in the ſtory it doth plaine appeare.</l>
+               <l>To bring that Godly Lady to her end,</l>
+               <l>But God aboue, her grace did ſtill defend.</l>
+            </lg>
+            <lg>
+               <l>From thence to Hampton Court ſhe was conuey'd,</l>
+               <l>there to remaine as ſhe had done before:</l>
+               <l>Wherein cloſe priſon ſhe a fortnight layd;</l>
+               <l>and out of dores not ſuffered for to ſtirre,</l>
+               <l>From thence at laſt at ten a clocke at night,</l>
+               <l>She was conuayed to Queene <hi>Maries</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:4"/>
+               <!-- PDF PAGE 67 -->
+               <l>Who did demaund, and if ſhe would not yeeld,</l>
+               <l>vnto her grace that mercie ſhe might haue:</l>
+               <l>If I offended haue, let me be held</l>
+               <l>a traytor, for no mercy I will craue.</l>
+               <l>For God that liueth in Eternitie,</l>
+               <l>Doth know I neuer wrongd your Maieſtie.</l>
+            </lg>
+            <lg>
+               <l>From priſon then the Queene did her releaſe,</l>
+               <l>and to her houſe at <hi>Lamheye</hi> did her ſend:</l>
+               <l>From all her troubles there to liue in peace,</l>
+               <l>with two or three vpon her to attend.</l>
+               <l>Thus was our gratious and our louing Queene,</l>
+               <l>Toſte too and fro, as one of no eſteeme.</l>
+            </lg>
+            <lg>
+               <l>Not like a Princeſſe of ſuch great renowne,</l>
+               <l>the like of her fayre England neuer had:</l>
+               <l>And rightfull heire next vnto the crowne,</l>
+               <l>which ioy'd all faith full hearts and made them glad.</l>
+               <l>For ſhortly after God did take away</l>
+               <l>
+                  <hi>Marie</hi> from vs which was a ioyfull day.</l>
+            </lg>
+            <lg>
+               <l>Then was <hi>Elizabeth</hi> proclaimed Queene,</l>
+               <l>whoſe loue vnto vs alway did abound,</l>
+               <l>More ioye in England there was neuer ſeene,</l>
+               <l>not without cauſe, as ſince we all haue found.</l>
+               <l>Specially thoſe which rightly feare the Lord,</l>
+               <l>And lou'd the trueth, and Papiſtry abhord.</l>
+            </lg>
+            <lg>
+               <l>Thus did the Lord from troubles many a one,</l>
+               <l>preſerue and keepe her gratious Maieſtie.</l>
+               <l>And with his hand did ſet her on her throne,</l>
+               <l>to be admired of all poſteritie.</l>
+               <l>That after ages might report and ſay,</l>
+               <l>Thus deales the Lord with them that him obay.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 68 -->
+               <l>Nay of her right when as ſhe was poſſeſt,</l>
+               <l>and had vpon her head that glorious crowne:</l>
+               <l>There he in mercie did not let her reſt,</l>
+               <l>but all her foes with ſpeed that did but frowne.</l>
+               <l>The Lord in Iuſtice ended ſoone their dayes,</l>
+               <l>Therefore alone to him we yeeld the praiſe.</l>
+            </lg>
+            <lg>
+               <l>All thoſe that pleaſe Chronicles to read,</l>
+               <l>ſhall ſee how God did keepe her with his power:</l>
+               <l>And by the hand (as 'twere) her grace did lead,</l>
+               <l>euen from her birth day, to her lateſt hower:</l>
+               <l>And many traiterous actes againſt her grace,</l>
+               <l>Did bring to light, and vtterly deface.</l>
+            </lg>
+            <lg>
+               <l>He did not bleſſe our gratious Queene alone,</l>
+               <l>but all her Counſell, and her realme likewiſe:</l>
+               <l>For none of them had cauſe to make their moane,</l>
+               <l>for ſhe the meaneſt ſort did not deſpiſe.</l>
+               <l>But did direct ſuch orders for theirſtay,</l>
+               <l>As bindes the poore vpon their knees to pray.</l>
+            </lg>
+            <lg>
+               <l>That God would graunt her <hi>Neſtors</hi> yeares to liue,</l>
+               <l>and <hi>Creſsus</hi> wealth thrice doubled to enioy:</l>
+               <l>
+                  <hi>Salomons</hi> wiſedome, Lord we pray thee giue,</l>
+               <l>vnto her Grace, and keepe her from annoy.</l>
+               <l>Theſe were the prayers that the poore did make,</l>
+               <l>For vertuous Queene <hi>Elizabeth</hi> her ſake.</l>
+            </lg>
+            <lg>
+               <l>Whom from her birth the Lord did keepe no doubt,</l>
+               <l>as he did <hi>Moyſes</hi> from proud <hi>Pharaohs</hi> hand:</l>
+               <l>To end her dayes though many went about,</l>
+               <l>yet like <hi>Mount Sina</hi> ſtill her grace did ſtand.</l>
+               <l>In ſpight of <hi>Pope</hi> and <hi>Spaniſh</hi> policie,</l>
+               <l>The Lord did bleſſe and keepe her Maieſtie</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:5"/>
+               <!-- PDF PAGE 68 -->
+               <l>For <hi>Iſraell</hi> did <hi>Moyſes</hi> often pray,</l>
+               <l>our Queene for <hi>England</hi> euer did the ſame,</l>
+               <l>And <hi>Samuell</hi> alwayes did the Lord obay,</l>
+               <l>ſo did our good and gratious Queene of fame.</l>
+               <l>As <hi>England</hi> found, whoſe welfare did relye,</l>
+               <l>vpon the perſon of her Maieſtie.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Abraham</hi> is gone, which for vs oft did pray,</l>
+               <l>our ſtaye is gone whereon we all did reſt:</l>
+               <l>For <hi>Lotte</hi> from vs is taken quite away,</l>
+               <l>
+                  <hi>Ioſeph</hi> is gone, for whom this land was bleſt,</l>
+               <l>Our <hi>Abraham, Lot,</hi> with <hi>Ioſeph</hi> now is dead,</l>
+               <l>And with our Queene their vertues wrapt in lead.</l>
+            </lg>
+            <lg>
+               <l>Gone is our Queene, whoſe like cannot be found,</l>
+               <l>gone is our Queene which alwayes lou'd vs deare,</l>
+               <l>Gone is our Queene whoſe vertues did abound,</l>
+               <l>as by her care it often did appeare.</l>
+               <l>Gone is our ioy, our ſtay, our life, our loue,</l>
+               <l>Gone is our Load-ſtarre vnto heauen aboue.</l>
+            </lg>
+            <lg>
+               <l>Downe is that Sunne which oft did ſhine ſo bright,</l>
+               <l>downe is that Starre which many did excell:</l>
+               <l>Downe is that Moone which oft did giue vs light,</l>
+               <l>downe is that light which darkeneſſe did excell.</l>
+               <l>Our Lampe is out, the which did burne ſo cleere,</l>
+               <l>And gaue vs light this fiue and fortie yeere.</l>
+            </lg>
+            <lg>
+               <l>But ſhall we greeue that ſhe is gone to reſt,</l>
+               <l>who all her life to do vs good did ſpend:</l>
+               <l>No, lets reioyce, ſithe God doth count it beſt,</l>
+               <l>from troubles for her Maieſtie to ſend,</l>
+               <l>To giue her that for which ſhe laboured long,</l>
+               <l>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ine her, you ſhould do her wrong.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:6"/>
+               <!-- PDF PAGE 69 -->
+               <l>To heauén, to heauen, our gratious Queene is gone,</l>
+               <l>to liue with Chriſt in ioy for euermore:</l>
+               <l>Then leaue to ſithe, to ſob, to weepe and mone;</l>
+               <l>for ſhe in glory doth Gods name adore.</l>
+               <l>With many thouſand Saints and angels ſhe,</l>
+               <l>Sings Holy, holy, holy, Trinity.</l>
+            </lg>
+            <lg>
+               <l>Thus let vs leaue her with that glorious traine,</l>
+               <l>to praiſe the Lord in heauen for euermore:</l>
+               <l>There crown'd with glory euer to remaine,</l>
+               <l>with heauenly voyces and with Martyrs ſtore.</l>
+               <l>Who in their conforts all agree in one,</l>
+               <l>Still giuing honour vnto God alone.</l>
+            </lg>
+            <lg>
+               <l>Yet weeping, weepe for her which had your harts,</l>
+               <l>who lou'd you dearely while ſhe did remaine:</l>
+               <l>But let your cries be ſeuered into partes,</l>
+               <l>your ſtate and welfare ſtill for to maintaine.</l>
+               <l>And praiſe the Lord, the which in mercie haue,</l>
+               <l>Sent thee a King that is both wiſe and graue.</l>
+            </lg>
+            <lg>
+               <l>The Pope long time hath wiſhed for this day,</l>
+               <l>thinking to bring vs vnderneath his yoake:</l>
+               <l>But now poore Fooles they know not what to ſay,</l>
+               <l>hipocriſie they finde their fitteſt cloake.</l>
+               <l>For though our Queene <hi>Elizabeth</hi> be dead,</l>
+               <l>We haue a King that ruleth in her ſtead.</l>
+            </lg>
+            <lg>
+               <l>Who will the trueth mainetaine while he doth liue,</l>
+               <l>in ſpite of Pope of Spaine or all that route:</l>
+               <l>Thy holy ſpirit Lord vnto him giue,</l>
+               <l>to be his guide in all he gots about.</l>
+               <l>And all that ſeeke by means to wrong his grace,</l>
+               <l>Lord we beſeech thee vtterly deface.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:6"/>
+               <!-- PDF PAGE 69 -->
+               <l>That little England ſtill may praiſe thy name,</l>
+               <l>and liue in peace as we before haue done:</l>
+               <l>Preſerue O God our royall King of fame,</l>
+               <l>he may proceed as he hath well begun:</l>
+               <l>Gods glory, and his Goſpell to maintaine,</l>
+               <l>while here vpon the earth we do remaine.</l>
+            </lg>
+            <lg>
+               <l>God giue vs grace which be his ſubiects true,</l>
+               <l>with loyall hearts to ſerue him all our life:</l>
+               <l>And to preuent thoſe dangers may inſue,</l>
+               <l>If we among our ſelues ſhould liue at ſtrife.</l>
+               <l>Come let vs ioyne our hearts with hands and ſay,</l>
+               <l>The Lord be praiſde that ere we ſaw this day.</l>
+            </lg>
+            <lg>
+               <l>For we in England now inioye a King,</l>
+               <l>which feares the Lord, and holds his ſubiects deare:</l>
+               <l>Whoſe fame for euer through the world ſhall ring,</l>
+               <l>for through his Realmes the Goſpell ſhineth cleare.</l>
+               <l>And we enioy the peace we long poſſeſt:</l>
+               <l>That without feare we all may take our reſt.</l>
+            </lg>
+            <lg>
+               <l>Then let vs all confeſſe with one conſent,</l>
+               <l>that God hath brought this mighty worke to paſſe:</l>
+               <l>And of our ſinne lets earneſtly repent,</l>
+               <l>for through the land more neede there neuer was.</l>
+               <l>For pride and enuie now doth beare ſuch ſway,</l>
+               <l>That faithfull dealing growes into decay.</l>
+            </lg>
+            <lg>
+               <l>Well to conclude, let euery one amend,</l>
+               <l>of his bad life that long he liued in:</l>
+               <l>Then many bleſſings God will on vs ſend,</l>
+               <l>then ſpeedily let euery one begin.</l>
+               <l>To pray, obey, and ſerue the God of might,</l>
+               <l>For that is wholy pleaſing in his ſight.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:5762:7"/>
+               <!-- PDF PAGE 70 -->
+               <l>The God of heauen preſerue our noble King,</l>
+               <l>and grant him three times <hi>Neſtors</hi> yeares to liue:</l>
+               <l>That we with peace and plenty ſtill may ſing,</l>
+               <l>and alwayes to the Lord true praiſes giue.</l>
+               <l>Lord bleſſe both him and his, for euermore,</l>
+               <l>And grant we alway may thy name adore.</l>
+            </lg>
+            <lg>
+               <l>Lord let thoſe vertues which our Queene poſſeſt.</l>
+               <l>be trebeled vpon his royall head:</l>
+               <l>Lord guide him in thoſe things which pleaſe thee beſt:</l>
+               <l>and let her vertues liue though ſhe be dead.</l>
+               <l>Lord bleſſe his grace, and all his royall traine.</l>
+               <l>That peace and plenty he may ſtill mainetaine.</l>
+            </lg>
+            <lg>
+               <l>That all thy ſubiectes may reioyce in thee,</l>
+               <l>which liue within the compaſſe of thy Realmes:</l>
+               <l>And ioyning harts with hands may all agree,</l>
+               <l>ſaying God ſaue, our noble Prince King <hi>Iames,</hi>
+               </l>
+               <l>Whoſe Godly life, and vertuous deedes doe ſhow,</l>
+               <l>Our ſtate in England ſhall not ebbe but flow.</l>
+            </lg>
+            <lg>
+               <l>God grant it may for euer flouriſh ſo,</l>
+               <l>and ſtill be famous all the world throughout,</l>
+               <l>And let vs not the word of God forgoe,</l>
+               <l>though popiſh Prieſtes to wrong it goe about.</l>
+               <l>Yet let this Iland ſtill the ſame inioy,</l>
+               <l>For that is it hath kept vs from annoy.</l>
+            </lg>
+            <lg>
+               <l>Then feare the Lord and honour ſtill thy King,</l>
+               <l>ioyne all as one, the trueth for to defend:</l>
+               <l>Then peace vnto our land will plenty bring,</l>
+               <l>and all our feeble ſtates ſhall then amend.</l>
+               <l>Then let vs all with ecchoing voyces crie,</l>
+               <l>The Lord preſerue his Royall Maieſty.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:5762:7"/>
+            <!-- PDF PAGE 70 -->
+         </div>
+      </body>
+   </text>
+</TEI>
